@@ -7,7 +7,8 @@ export class Issue extends Component {
   render() {
     return (
       <div className="issue-container">
-        <IssueDep />
+        <h1>Drag & drop Test</h1>
+
         <div className="box-container">
           <Issues />
         </div>
