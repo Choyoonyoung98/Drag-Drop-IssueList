@@ -4,7 +4,7 @@
 
 ```
 npm install
-npm -i react-beautiful-dnd
-npm -i styled-components
-npm -i react-router-dom
+npm i react-beautiful-dnd
+npm i styled-components
+npm i react-router-dom
 ```
